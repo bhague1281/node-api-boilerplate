@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+
+  "globals": {},
+
+  "rules": {
+    "no-console": 0
+  }
+}
